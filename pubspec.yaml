@@ -1,7 +1,7 @@
 name: umeng_share_link_sdk
-description: A new flutter plugin project.
+description: A Flutter plugin for integrating UShare and ULink, which are SDKs provided by UMeng.
 version: 0.0.1
-homepage:
+repository: https://github.com/JiahaoZhu11/umeng_share_link_sdk
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
